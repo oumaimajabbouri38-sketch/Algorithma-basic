@@ -1,0 +1,11 @@
+Algorithme EvenOrOddChecker
+Variables : n : entier
+
+Début
+   Lire n
+   Si n % 2 = 0 alors
+      Afficher "pair"
+   Sinon
+      Afficher "impair"
+   FinSi
+Fin
