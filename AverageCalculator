@@ -1,0 +1,8 @@
+Algorithme AverageCalculator
+Variables : a, b, c, m : réel
+
+Début
+   Lire a, b, c
+   m ← (a + b + c) / 3
+   Afficher m
+Fin
