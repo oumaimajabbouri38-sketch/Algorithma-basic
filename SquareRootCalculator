@@ -1,0 +1,7 @@
+Algorithme SquareRootCalculator
+Variables : n : réel
+
+Début
+   Lire n
+   Afficher racine(n)
+Fin
