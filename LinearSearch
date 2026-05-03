@@ -1,0 +1,10 @@
+Procédure LinearSearch(T : tableau, n, x : entier)
+Variables : i : entier
+
+Début
+   Pour i de 1 à n faire
+      Si T[i] = x alors
+         Afficher "trouvé"
+      FinSi
+   FinPour
+Fin
