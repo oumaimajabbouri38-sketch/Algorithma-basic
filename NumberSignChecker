@@ -1,0 +1,13 @@
+Algorithme NumberSignChecker
+Variables : n : entier
+
+Début
+   Lire n
+   Si n > 0 alors
+      Afficher "positif"
+   Sinon Si n < 0 alors
+      Afficher "négatif"
+   Sinon
+      Afficher "zéro"
+   FinSi
+Fin
