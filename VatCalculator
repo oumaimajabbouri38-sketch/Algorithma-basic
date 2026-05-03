@@ -1,0 +1,8 @@
+Algorithme VatCalculator
+Variables : prix, tva, total : réel
+
+Début
+   Lire prix, tva
+   total ← prix + (prix * tva / 100)
+   Afficher total
+Fin
