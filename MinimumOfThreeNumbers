@@ -1,0 +1,14 @@
+Algorithme MinimumOfThreeNumbers
+Variables : a, b, c : entier
+
+Début
+   Lire a, b, c
+
+   Si a <= b et a <= c alors
+      Afficher a
+   Sinon Si b <= a et b <= c alors
+      Afficher b
+   Sinon
+      Afficher c
+   FinSi
+Fin
