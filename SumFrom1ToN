@@ -1,0 +1,13 @@
+Algorithme SumFrom1ToN
+Variables : i, n, s : entier
+
+Début
+   Lire n
+   s ← 0
+
+   Pour i de 1 à n faire
+      s ← s + i
+   FinPour
+
+   Afficher s
+Fin
