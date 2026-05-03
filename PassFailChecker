@@ -1,0 +1,12 @@
+Algorithme PassFailChecker
+Variables : note : réel
+
+Début
+   Lire note
+
+   Si note >= 10 alors
+      Afficher "Admis"
+   Sinon
+      Afficher "Non admis"
+   FinSi
+Fin
