@@ -1,0 +1,7 @@
+Algorithme NameDisplay
+Variables : nom : chaine
+
+Début
+   Lire nom
+   Afficher nom
+Fin
