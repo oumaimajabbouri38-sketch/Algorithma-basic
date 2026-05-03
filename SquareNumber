@@ -1,0 +1,8 @@
+Algorithme SquareNumber
+Variables : n, r : entier
+
+Début
+   Lire n
+   r ← n * n
+   Afficher r
+Fin
