@@ -1,0 +1,14 @@
+Algorithme MaximumOfThreeNumbers
+Variables : a, b, c : entier
+
+Début
+   Lire a, b, c
+
+   Si a >= b et a >= c alors
+     Ecrire a
+   Sinon Si b >= a et b >= c alors
+      Ecrire b
+   Sinon
+      Ecrire c
+   FinSi
+Fin
