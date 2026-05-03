@@ -1,0 +1,8 @@
+Algorithme SumTwoNumbers
+Variables : a, b, s : entier
+
+Début
+   Lire a, b
+   s ← a + b
+   Afficher s
+Fin
